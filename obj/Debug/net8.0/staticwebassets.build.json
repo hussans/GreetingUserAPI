@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dnzmStBT07eiyxIUuenBI1LGAiCxR5+8JtXPJ5S7Bzc=",
+  "Source": "SayHelloEndPoint",
+  "BasePath": "_content/SayHelloEndPoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
